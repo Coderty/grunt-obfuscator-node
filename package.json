@@ -44,6 +44,6 @@
   ],
   "dependencies": {
     "lodash": "3.10.0",
-    "uglify-js": "git+https://github.com/mishoo/UglifyJS2.git#harmony"
+    "uglify-js": "git+https://github.com/mishoo/UglifyJS2.git#harmony-v2.8.22"
   }
 }
